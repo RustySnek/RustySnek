@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Poroknights' stats](https://github-readme-stats.vercel.app/api?username=Poroknights&show_icons=true&theme=radical&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;![1800 (2)](https://user-images.githubusercontent.com/73820224/235208168-ddcbc9fa-d23a-416a-81ce-e4823f0ea67a.jpg)
 
 <!--
 **Poroknights/Poroknights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
